@@ -40,11 +40,11 @@ Concurrent enrollment in PHYS E-1ax, or prior completion of a comparable course 
 We expect you to have familiarity with algebra, trigonometry, and exponential functions; MATH E-10 or equivalent work in precalculus is highly recommended. 
 
 ## Attendance and Participation Policy 
-We expect you to attend each of your assigned lab sections. If you miss a lab without an excused absence you will receive zero credit for the experiment. See [Missed Lab Sections and Cancellations](#Missed-Lab-Sections-and-Cancellations) section below for more information on what to do if you must be absent from your assigned section meeting. 
+We expect you to attend each of your assigned lab sections. If you miss a lab without an excused absence you will receive zero credit for the experiment. See [Missed Lab Sections and Cancellations](#Missed-Lab-Sections-and-Cancellations) for more information on what to do if you must miss your assigned section meeting. 
 
-Students must arrive on time for their lab—you may not receive full credit for the experiment if you are late! 
+Students must arrive **on time** for lab — you may not receive full credit for the experiment if you are late! 
 
-Active participation in all aspects of the experiment—including data collection and analysis—is necessary for you to succeed in the course. You will work in groups of two when possible (three students at a maximum). All data, graphs, calculations, answers to questions, and conclusions are a collaborative effort of the group, and each group member is assigned the same grade for the submitted work (see “Lab Grading Procedure” section below for more details on grading criteria). 
+Active participation in all aspects of the experiment—including data collection and analysis—is necessary for you to succeed in the course. You will work in groups of two when possible (three students at a maximum). All data, plots, calculations, answers to questions, and conclusions are a collaborative effort of the group. Each group member is assigned the same grade for the submitted work (see [Grading](#Grading) for details). 
 
 ## Pre-lab assignments
 There will be a pre-lab assignment for each lab that must be completed before your lab starts. These assignments are designed to prepare you for lab in a way that is low-stakes and low-stress. The assignment will be in Canvas as a series of "quizzes," but you have multiple attempts to get all the points in each quiz.
