@@ -11,6 +11,22 @@ aklales@g.harvard.edu
 ## Lab Location 
 Harvard Science Center room 115 
 
+## Lab Section Schedules
+All lab sections meet in Science Center room 115 
+
+[Section 1: Monday 6-9 PM](/schedules/s1.md)
+
+[Section 2: Tuesday 2-5 PM](/schedules/s2.md)
+
+[Section 3: Tuesday 6-9 PM](/schedules/s3.md)
+
+[Section 4: Tuesday 2-5 PM](/schedules/s4.md)
+
+[Section 5: Tuesday 6-9 PM](/schedules/s5.md)
+
+[Section 6: Saturday 9AM-Noon](/schedules/s6.md)
+
+
 ## Overview 
 This is a hands-on lab course intended to complement the Physics E-1ax lecture course. 
 You will meet in Science Center room 115 roughly every other week to complete a total of six laboratory experiments (see “Lab Section Schedule” below for specific dates). These experiments include aspects of measurement and uncertainty, force and momentum, elasticity and oscillation, fluid dynamics, and statistical mechanics. Collaborating with your classmates and guided by the teaching staff, you will develop practical skills in data collection and analysis. 
@@ -77,20 +93,6 @@ You are responsible for understanding [Harvard Extension School policies on acad
 ## Accommodations
 Students needing academic adjustments or accommodations because of a documented disability must contact the [Extension School Accessibility Services Office](https://www.extension.harvard.edu/resources-policies/accessibility-student-services) and submit the [Request for Accommodation Form](https://www.extension.harvard.edu/sites/extension.harvard.edu/files/atoms/files/request_ for_accommodation_form.pdf) and appropriate documentation no later than two weeks before the course begins (in other words, no later than August 16, 2019). Failure to do so may result in the course head’s inability to respond in a timely manner. All discussions will remain confidential, although the course head is invited to contact the Accessibility Services Office to discuss appropriate implementation. 
 
-## Lab Section Schedules
-All lab sections meet in Science Center room 115 
-
-[Section 1: Monday 6-9 PM](/schedules/s1.md)
-
-[Section 2: Tuesday 2-5 PM](/schedules/s2.md)
-
-[Section 3: Tuesday 6-9 PM](/schedules/s3.md)
-
-[Section 4: Tuesday 2-5 PM](/schedules/s4.md)
-
-[Section 5: Tuesday 6-9 PM](/schedules/s5.md)
-
-[Section 6: Saturday 9AM-Noon](/schedules/s6.md)
 
 
 
