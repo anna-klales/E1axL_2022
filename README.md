@@ -26,10 +26,13 @@ Students must arrive on time for their lab—you may not receive full credit for
 
 Active participation in all aspects of the experiment—including data collection and analysis—is necessary for you to succeed in the course. You will work in groups of two when possible (three students at a maximum). All data, graphs, calculations, answers to questions, and conclusions are a collaborative effort of the group, and each group member is assigned the same grade for the submitted work (see “Lab Grading Procedure” section below for more details on grading criteria). 
 
-## Lab Handouts and Materials 
-Students are expected to complete any pre-experiment assignments prior to their lab section meeting on Canvas. These assignments are graded based on participation only. There is no textbook for the course. All materials and equipment for your experiment will be supplied in your lab section. 
+## Pre-lab assignments
+There will be a pre-lab assignment for each lab that must be completed before your lab starts. These assignments are designed to prepare you for lab in a way that is low-stakes and low-stress. The assignment will be in Canvas as a series of "quizzes," but you have multiple attempts to get all the points in each quiz.
 
-## Lab Report Submission 
+## Lab Handouts and Materials 
+There is no textbook for the course. All equipment for your experiment will be supplied in your lab section, and any documents you need will be provided online. 
+
+## Lab Notebook Submission 
 Before the end of the lab session, you and each member of your lab group will submit a copy of your electronic lab notebook to the course website. Please notify the teaching staff immediately if you are having technical difficulties with the course website. Time permitting, we encourage you to have your TA look over the work to offer suggestions for improvement before it is uploaded. 
 
 ## Lab Grading Procedure 
@@ -49,13 +52,20 @@ The group clearly did not understand the experiment. They may have written some 
 The group wrote nothing or almost nothing. _Note: Individual students will receive a zero for a lab experiment if they miss the lab without an excused absence._
 
 ## Course Letter Grade 
-Each student starts out the semester with 12 points. Labs that achieve a 4 or 5 grade will not reduce this number. Labs that receive a 3 will reduce the grade by 1 point. Labs that receive a 2 reduce the grade by 2 points. Labs that receive a 0 or 1 reduce the grade by 3 points. At the end of the term the course letter grade is determined by the following scheme: 
+Each student begins the semester with 12 points. Points are deducted in the following way:
+- Labs that receive a score of 4 or 5 will not reduce this number. 
+- Labs that receive a 3 will reduce the grade by 1 point. 
+- Labs that receive a 2 reduce the grade by 2 points. 
+- Labs that receive a 0 or 1 reduce the grade by 3 points. 
+- Each missed pre-lab activity reduces the grade by 1 point.
+
+At the end of the term, the course letter grade is determined by the following scheme: 
 A = 12 points, A– =11 points, B+ =10 points, B = 9 points, B– = 8 points, C+ = 7 points, C = 6 points, C– = 5 points, D+ = 4 points, D = 3 points, D– = 2 points, and F = 0 or 1 points. 
 
 ## Missed Lab Sections, and Cancellations 
-If you cannot attend your regular section due to illness or other emergency, then you will need to contact the course head—Allen Crockett—as soon as the conflict arises. You must have written (email) approval from the course head with a specific time and date for a make-up before attending a lab other than your assigned section. _All appeals to make-up a lab are at the discretion of the course head._
+If you cannot attend your regular section due to illness or other emergency, then you will need to contact the course head (Anna Klales) as soon as the conflict arises. You must have written (email) approval from the course head with a specific time and date for a make-up before attending a lab other than your assigned section. _All appeals to make-up a lab are at the discretion of the course head._
 
-If possible, your make-up will be scheduled during the same week as the missed lab at one of the two Thursday sections: Lab Section 4, Thursday 2-5 pm or Lab Section 5, Thursday 6-9 pm. If a Thursday section is not feasible, then your make-up lab may need to be scheduled during the final week of class. 
+If possible, your make-up will be scheduled during the same week as the missed lab at one of the other sections - see [Lab Section Schedules](#Lab-Section-Schedules). If a Thursday section is not feasible, then your make-up lab may need to be scheduled during the final week of class. 
 
 Inclement weather or other extraordinary events may cause the Extension School to cancel your lab section, and we have reserved an additional lab date for each section just in case. See the lab schedules below. 
 
