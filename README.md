@@ -30,7 +30,7 @@ All lab sections meet in Science Center room 115
 
 ## Overview 
 This is a hands-on lab course intended to complement the Physics E-1ax lecture course. 
-You will meet in Science Center room 115 roughly every other week to complete a total of six laboratory experiments (see “Lab Section Schedule” below for specific dates). These experiments include aspects of measurement and uncertainty, force and momentum, elasticity and oscillation, fluid dynamics, and statistical mechanics. Collaborating with your classmates and guided by the teaching staff, you will develop practical skills in data collection and analysis. 
+You will meet in Science Center room 115 roughly every other week to complete a total of six laboratory experiments (see [Schedules](#Lab-Section-Schedules) for specific dates). These experiments include aspects of measurement and uncertainty, force and momentum, elasticity and oscillation, fluid dynamics, and statistical mechanics. Collaborating with your classmates and guided by the teaching staff, you will develop practical skills in data collection and analysis. 
 
 ## Learning Objectives
 This course will help you understand how we _know_ what we know. While the lab component of the course does deal with some concepts you cover in the lecture course, the main objective of the course is to teach you how to use data to figure out something new and convince someone else that you have. The skills you learn in this course will help you evaluate an experiment, understand the limitations of a measurement, and think critically about information. These skills are applicable far outside of physics, and we hope you have some fun learning them!
