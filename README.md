@@ -47,7 +47,7 @@ Students must arrive **on time** for lab — you may not receive full credit for
 **Active participation** in all aspects of the experiment—including data collection and analysis—is necessary for you to succeed in the course. You will work in groups of two when possible (three students at a maximum). All data, plots, calculations, answers to questions, and conclusions are a collaborative effort of the group. Each group member is assigned the same grade for the submitted work (see [Grading](#Grading) for details). You should also engage your lab instructors during the lab; you are learning during lab time, so we don't expect you to be able to do everything on your own without asking questions.
 
 ## Pre-lab assignments
-There will be a pre-lab assignment for each lab that must be completed before your lab starts. These assignments are designed to prepare you for lab in a way that is low-stakes and low-stress. The assignment will be in Canvas as a series of "quizzes," but you have multiple attempts to get all the points in each quiz.
+There will be a pre-lab assignment for each lab that must be completed before your lab starts. These assignments are designed to prepare you for lab in a way that is low-stakes and low-stress. The assignment will be in Canvas as a series of "quizzes," but you have multiple attempts to get all the points in each quiz. The assignments will be posted no later than 3 days before your assigned lab section.
 
 ## Course Materials 
 There is no textbook for the course. All equipment for your experiment will be supplied in your lab section, and any documents you need will be provided online. You will need a gmail account (a g.harvard.edu account is perfect) to access the Colab notebooks we'll use during lab time.
