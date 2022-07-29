@@ -3,7 +3,9 @@ Harvard Extension School, Fall 2019
 
 ## Course Head 
 Dr. Anna Klales
+
 Senior Preceptor in Physics, Harvard FAS
+
 aklales@g.harvard.edu
 
 ## Lab Location 
@@ -25,22 +27,22 @@ Students must arrive on time for their lab—you may not receive full credit for
 Active participation in all aspects of the experiment—including data collection and analysis—is necessary for you to succeed in the course. You will work in groups of two when possible (three students at a maximum). All data, graphs, calculations, answers to questions, and conclusions are a collaborative effort of the group, and each group member is assigned the same grade for the submitted work (see “Lab Grading Procedure” section below for more details on grading criteria). 
 
 ## Lab Handouts and Materials 
-Students are expected to read over all handouts for the experiment prior to their lab section meeting. Handouts for each experiment will be available on the course website prior to each meeting. We recommend that you print the handout and bring it to lab with your notes and questions. There is no textbook for the course. All materials and equipment for your experiment will be supplied in your lab section. 
+Students are expected to complete any pre-experiment assignments prior to their lab section meeting on Canvas. These assignments are graded based on participation only. There is no textbook for the course. All materials and equipment for your experiment will be supplied in your lab section. 
 
 ## Lab Report Submission 
-Before the end of the lab session, you and each member of your lab group submits a PDF copy of the lab report—including data, graphs, calculations, answers to questions, and conclusions—to the course website. Please notify the teaching staff immediately if you are having technical difficulties with the course website. Time permitting, we encourage you to have your TA look over the work to offer suggestions for improvement before it is uploaded. 
+Before the end of the lab session, you and each member of your lab group will submit a copy of your electronic lab notebook to the course website. Please notify the teaching staff immediately if you are having technical difficulties with the course website. Time permitting, we encourage you to have your TA look over the work to offer suggestions for improvement before it is uploaded. 
 
 ## Lab Grading Procedure 
 
 Each lab report is graded as a group on a scale of 0-5. The grading is based on the following rubric:  
 ### 5 
-The group clearly understands the relevant physics concepts in the experiment. All tables, graphs, photos, and calculations are clearly labeled and easy to read, and all questions in the lab handout are answered. An appropriate effort has been made to account for experimental uncertainties in all measurements and calculations. All members of the group participated equally in the collection and analysis of the experiment data. Minor mistakes and careless errors can appear, insofar as they do not indicate a conceptual misunderstanding. 
+The group clearly understands the relevant physics concepts in the experiment. All tables, plots, photos, and calculations are clearly labeled and easy to read, and all questions in the lab handout are answered. An appropriate effort has been made to account for experimental uncertainties in all measurements and calculations. All members of the group participated equally in the collection and analysis of the experiment data. Minor mistakes and careless errors can appear, insofar as they do not indicate a conceptual misunderstanding. 
 ### 4 
 The group seems to understand the main physics concepts and problem-solving techniques, but has some minor yet non-trivial gaps in their reasoning. A question or instruction from the lab handout may have been overlooked. Presentation of the data lacks a little in neatness and organization. Accounting for experimental uncertainty has been inconsistently or inappropriately applied. Participation in the experiment was unequal among the group members. 
 ### 3 
-The group has partially understood the experiment. Reasoning and problem- solving techniques are either incomplete or inappropriate. A question or instruction from the lab handout may have been ignored, or otherwise left incomplete. Data, graphs, or photos may be difficult to read and understand. Experimental uncertainty has been ignored in calculations. Participation unnoticeable for one or more group members, possibly as a result of tardiness. 
+The group has partially understood the experiment. Reasoning and problem-solving techniques are either incomplete or inappropriate. A question or instruction from the lab handout may have been ignored, or otherwise left incomplete. Data, plots, or photos may be difficult to read and understand. Experimental uncertainty has been ignored in calculations. Participation unnoticeable for one or more group members, possibly as a result of tardiness. 
 ### 2 
-The group has a poor understanding of the experiment or the physics behind it. They may have gone in a not-entirely-wrong but unproductive direction, or attempted to solve the problem using pattern matching. Multiple questions or instructions have been left incomplete. Experiment data is missing.  
+The group has a poor understanding of the experiment, the physics behind it, or the analysis. They may have gone in a not-entirely-wrong but unproductive direction, or attempted to solve the problem using pattern matching. Multiple questions or instructions have been left incomplete. Experiment data is missing.  
 ### 1
 The group clearly did not understand the experiment. They may have written some appropriate formulas or diagrams, but nothing further. Or, they may have done something entirely wrong.  
 ### 0 
