@@ -1,12 +1,13 @@
 # Physics E-1axl: Mechanics, Elasticity, Fluids, and Diffusion (Lab) 
 Harvard Extension School, Fall 2022
+Format: On Campus
 
 ## Course Head 
 Dr. Anna Klales
 
 Senior Preceptor in Physics, Harvard FAS
 
-aklales@g.harvard.edu
+aklales@g.harvard.edu (Generally expect responses to email within 24 hours)
 
 ## Lab Location 
 Harvard Science Center room 115 
@@ -32,13 +33,14 @@ This is a hands-on lab course intended to complement the Physics E-1ax lecture c
 You will meet in Science Center room 115 roughly every other week to complete a total of six laboratory experiments (see “Lab Section Schedule” below for specific dates). These experiments include aspects of measurement and uncertainty, force and momentum, elasticity and oscillation, fluid dynamics, and statistical mechanics. Collaborating with your classmates and guided by the teaching staff, you will develop practical skills in data collection and analysis. 
 
 ## Learning Objectives
+This course will help you understand how we _know_ what we know. While the lab component of the course does deal with some concepts you cover in the lecture course, the main objective of the course is to teach you how to use data to figure out something new and convince someone else that you have. The skills you learn in this course will help you evaluate an experiment, understand the limitations of a measurement, and think critically about information. These skills are applicable far outside of physics, and we hope you have some fun learning them!
 
 ## Prerequisites 
 Concurrent enrollment in PHYS E-1ax, or prior completion of a comparable course in physics (mechanics) is assumed. 
 We expect you to have familiarity with algebra, trigonometry, and exponential functions; MATH E-10 or equivalent work in precalculus is highly recommended. 
 
 ## Attendance and Participation Policy 
-We expect you to attend each of your assigned lab sections. If you miss a lab without an excused absence you will receive zero credit for the experiment. See the “Missed Lab Sections, and Cancellations” section below for more information on what to do if you must be absent from your assigned section meeting. 
+We expect you to attend each of your assigned lab sections. If you miss a lab without an excused absence you will receive zero credit for the experiment. See [Missed Lab Sections and Cancellations](#Missed-Lab-Sections-and-Cancellations) section below for more information on what to do if you must be absent from your assigned section meeting. 
 
 Students must arrive on time for their lab—you may not receive full credit for the experiment if you are late! 
 
