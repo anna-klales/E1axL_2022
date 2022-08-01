@@ -1,5 +1,6 @@
 # Physics E-1axl: Mechanics, Elasticity, Fluids, and Diffusion (Lab) 
 Harvard Extension School, Fall 2022
+
 Format: On Campus
 
 ## Course Head 
@@ -33,7 +34,7 @@ This is a hands-on lab course intended to complement the Physics E-1ax lecture c
 You will meet in Science Center room 115 roughly every other week to complete a total of six laboratory experiments (see [Schedules](#Lab-Section-Schedules) for specific dates). These experiments include aspects of measurement and uncertainty, force and momentum, elasticity and oscillation, fluid dynamics, and statistical mechanics. Collaborating with your classmates and guided by the teaching staff, you will develop practical skills in data collection and analysis. 
 
 ## Learning Objectives
-This course will help you understand how we _know_ what we know. While the lab deals with some concepts covered in the lecture course, the main objective of the course is to teach you how to use data to figure out something new and convince someone else that you have. The skills you learn in this course will help you evaluate an experiment, understand the limitations of a measurement, and think critically about information. These skills are applicable far outside of physics, and we hope you have some fun learning them!
+This course will help you understand how we _know_ what we know. While the lab deals with some concepts covered in the lecture course, the main objective of the course is to teach you how to use data to figure out something new and convince someone else that you have. The skills you learn in this course will help you evaluate an experiment or study, understand the limitations of a measurement, and think critically about information. These skills are applicable far outside of physics, and we hope you have some fun learning them!
 
 ## Prerequisites 
 Concurrent enrollment in PHYS E-1ax, or prior completion of a comparable course in physics (mechanics) is assumed. 
@@ -66,7 +67,7 @@ Each lab report is graded as a group on a scale of 0-5. The grading is based on 
 * **0**: The group wrote nothing or almost nothing. _Note: Individual students will receive a zero for a lab experiment if they miss the lab without an excused absence._
 
 
-Each student begins the semester with 12 points. Points are deducted in the following way:
+Each student begins the semester with 12 points. Points change in the following way:
 - Labs that receive a score of 4 or 5 will not reduce this number. 
 - Labs that receive a 3 will reduce the grade by 1 point. 
 - Labs that receive a 2 reduce the grade by 2 points. 
@@ -81,7 +82,7 @@ If you cannot attend your regular section due to illness or other emergency, you
 
 If possible, your make-up will be scheduled during the same week as the missed lab at one of the other sections - see [Lab Section Schedules](#Lab-Section-Schedules). If this is not feasible, then your make-up lab may need to be scheduled during the final week of class. 
 
-Inclement weather or other extraordinary events may cause the Extension School to cancel your lab section, and we have reserved an additional lab date for each section just in case. See the [Lab Section Schedules](#Lab-Section-Schedules). 
+Inclement weather or other extraordinary events may cause the Extension School to cancel your lab section, and we have reserved an additional lab date for each section just in case.
 
 ## Academic Integrity 
 You are responsible for understanding Harvard Extension School policies on academic integrity and how to use sources responsibly. Violations of academic integrity are taken very seriously. Review important information on academic integrity and student responsibilities [here](https://extension.harvard.edu/for-students/student-policies-conduct/academic-integrity); for more on academic citation rules, visit [Using Sources Effectively and Responsibly](https://extension.harvard.edu/for-students/support-and-services/using-sources-effectively-and-responsibly) and review the [Harvard Guide to Using Sources]( https://usingsources.fas.harvard.edu).
