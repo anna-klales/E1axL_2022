@@ -5,3 +5,4 @@ Please be sure to read the [syllabus](/syllabus.md) carefully. Most importantly,
 - Resources for students
 
 
+[Course Contacts](/contacts.md)
