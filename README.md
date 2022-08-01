@@ -1,3 +1,6 @@
+[Syllabus](.syllabus.md)
+
+
 # Physics E-1axl: Mechanics, Elasticity, Fluids, and Diffusion (Lab) 
 Harvard Extension School, Fall 2022
 
