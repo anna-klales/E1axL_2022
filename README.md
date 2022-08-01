@@ -1,7 +1,7 @@
 ## [Syllabus](/syllabus.md)
 
 
-### Lab Section Schedules
+
 All lab sections meet in Science Center room 115 
 
 [Section 1: Monday 6-9 PM](/schedules/s1.md)
