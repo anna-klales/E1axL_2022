@@ -22,9 +22,9 @@ All lab sections meet in Science Center room 115
 
 [Section 3: Tuesday 6-9 PM](/schedules/s3.md)
 
-[Section 4: Tuesday 2-5 PM](/schedules/s4.md)
+[Section 4: Thursday 2-5 PM](/schedules/s4.md)
 
-[Section 5: Tuesday 6-9 PM](/schedules/s5.md)
+[Section 5: Thursday 6-9 PM](/schedules/s5.md)
 
 [Section 6: Saturday 9AM-Noon](/schedules/s6.md)
 
@@ -101,6 +101,7 @@ DCE takes student privacy seriously. Any medical documentation should be provide
 
 ## Publishing or Distributing Course Materials  
 Students may not post, publish, sell, or otherwise publicly distribute course materials without the written permission of the course instructor. Such materials include, but are not limited to, the following: lecture notes, lecture slides, video, or audio recordings, assignments, problem sets, examinations, other students’ work, and answer keys. Students who sell, post, publish, or distribute course materials without written permission, whether for the purposes of soliciting answers or otherwise, may be subject to disciplinary action, up to and including requirement to withdraw. Further, students may not make video or audio recordings of class sessions for their own use without written permission of the instructor.
+
 
 
 
