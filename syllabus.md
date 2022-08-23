@@ -91,7 +91,7 @@ A = 12 points, A– =11 points, B+ =10 points, B = 9 points, B– = 8 points, C+
 ## Missed Lab Sections and Cancellations 
 If you cannot attend your regular section due to illness or other emergency, you must contact the course head (Anna Klales) as soon as the conflict arises. You must have written (email) approval from the course head with a specific time and date for a make-up before attending a lab other than your assigned section. _All appeals to make-up a lab are at the discretion of the course head._
 
-If possible, your make-up will be scheduled during the same week as the missed lab at one of the other sections - see [Lab Section Schedules](#Lab-Section-Schedules). If this is not feasible, then your make-up lab may need to be scheduled during the final week of class. 
+In your email, let the course head know if you can attend a different section time during the same week, since this is the best solution - see [Lab Section Schedules](#Lab-Section-Schedules). If this is not feasible, then your make-up lab may need to be scheduled during the final week of class. 
 
 Inclement weather or other extraordinary events may cause the Extension School to cancel your lab section, and we have reserved an additional lab date for each section just in case.
 
