@@ -10,6 +10,11 @@ Senior Preceptor in Physics, Harvard FAS
 
 aklales@g.harvard.edu (Generally expect responses to email within 24 hours)
 
+## Teaching Assistants
+
+Bryan Janson (bryanjanson@gmail.com)
+Christopher Carrera (christopherxerfancarrera@gmail.com)
+
 ## Lab Location 
 Harvard Science Center room 115 
 
