@@ -60,7 +60,7 @@ There will be a pre-lab assignment for each lab that must be completed before yo
 There is no textbook for the course. All equipment for your experiment will be supplied in your lab section, and any documents you need will be provided online. You will need a gmail account (a g.harvard.edu account is perfect) to access the Colab notebooks we'll use during lab time.
 
 ## Lab Notebook Submission 
-Before the end of the lab session, your lab group will submit *ONE* copy of your electronic lab notebook to the course website via Gradescope. Please notify the teaching staff immediately if you encounter technical difficulties. Time permitting, we encourage you to have your TA look over your work to offer suggestions for improvement before it is uploaded. 
+Before the end of the lab session, your lab group will submit *ONE* copy of your electronic lab notebook to the course website via Gradescope, adding group members via [these instructions](https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members). Please notify the teaching staff immediately if you encounter technical difficulties. Time permitting, we encourage you to have your TA look over your work to offer suggestions for improvement before it is uploaded. 
 
 ## Grading 
 
