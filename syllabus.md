@@ -13,6 +13,7 @@ aklales@g.harvard.edu (Generally expect responses to email within 24 hours)
 ## Teaching Assistants
 
 Bryan Janson (bryanjanson@gmail.com)
+
 Christopher Carrera (christopherxerfancarrera@gmail.com)
 
 ## Lab Location 
